@@ -12,7 +12,7 @@ Instead of broadcasting campaigns to everyone, clustering helps identify which c
 
 ---
 
-## 🛠️ How We Solved It
+## 🛠️ Approach
 
 ### 1. Data Import & Cleaning
 - Loaded the **`marketing_campaign.csv`** dataset  
