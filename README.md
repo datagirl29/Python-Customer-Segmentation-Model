@@ -83,7 +83,7 @@ The analysis revealed **4 customer clusters**:
 
 ---
 
-## 🚀 Key Business Takeaways
+## Key Business Takeaways
 - **Cluster 2 (High-Income Couples)** → best target for **premium campaigns**  
 - **Cluster 1 (Families with Teens)** → respond well to **discounts & deals**  
 - **Cluster 0 & 3** → price-sensitive, require **affordable offers or tailored retention strategies**  
@@ -91,14 +91,14 @@ The analysis revealed **4 customer clusters**:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn, Yellowbrick  
 - **Techniques:** Data Cleaning, Feature Engineering, Outlier Detection, PCA, Clustering (K-Means, Agglomerative)  
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project shows how **unsupervised learning (clustering)** can uncover meaningful customer segments.  
 By understanding these profiles, businesses can:  
 ✔ Increase campaign effectiveness  
@@ -107,6 +107,6 @@ By understanding these profiles, businesses can:
 
 ---
 
-## ✅ Data Source
+## Data Source
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
