@@ -1,4 +1,3 @@
-# Python-Customer-Segmentation-Model
 # Customer Segmentation 🛍️🛒 
 
 <p align="center">
