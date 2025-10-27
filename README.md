@@ -1,5 +1,4 @@
 # Python-Customer-Segmentation-Model
-Customer Personality Analysis Using Clustering Topics
 # Customer Segmentation 🛍️🛒 
 
 <p align="center">
